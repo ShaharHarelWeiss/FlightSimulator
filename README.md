@@ -90,13 +90,6 @@ End
 ![UML](https://user-images.githubusercontent.com/64739791/128872717-73914d5c-49b3-4bf8-90e3-873819c67d30.png)
 
 
-# Video 
-
-https://youtu.be/4foWX6dv4Ew
-
-that all for now see you in next version update !
-
-* Current Version 1.0 
 
 
 
